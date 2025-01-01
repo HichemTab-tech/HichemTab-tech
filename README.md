@@ -63,37 +63,37 @@ PackBumpPR is a reusable GitHub Action that simplifies package version updates a
 ### Languages
 | Language   | Proficiency |
 |------------|-------------|
-| JavaScript | ⭐⭐⭐⭐⭐⭐⭐ |
-| PHP        | ⭐⭐⭐⭐⭐⭐⭐ |
-| HTML/CSS   | ⭐⭐⭐⭐⭐⭐    |
-| Python     | ⭐⭐⭐⭐         |
-| Java       | ⭐⭐⭐⭐⭐⭐    |
-| Kotlin     | ⭐⭐⭐           |
-| SQL        | ⭐⭐⭐⭐         |
-| C#         | ⭐⭐⭐⭐         |
-| C++        | ⭐⭐⭐           |
-| Rust       | ⭐⭐              |
-| Go         | ⭐                |
-| Ruby       | ⭐⭐              |
-| Matlab     | ⭐⭐⭐⭐         |
-| Ladder     | ⭐⭐⭐⭐         |
+| JavaScript           | ⭐⭐⭐⭐⭐⭐⭐ |
+| PHP                  | ⭐⭐⭐⭐⭐⭐⭐ |
+| HTML/CSS             | ⭐⭐⭐⭐⭐⭐    |
+| Python               | ⭐⭐⭐⭐         |
+| Java                 | ⭐⭐⭐⭐⭐⭐    |
+| Kotlin               | ⭐⭐⭐           |
+| SQL                  | ⭐⭐⭐⭐         |
+| C#                   | ⭐⭐⭐⭐         |
+| C++                  | ⭐⭐⭐           |
+| Rust                 | ⭐⭐              |
+| Go                   | ⭐                |
+| Ruby                 | ⭐⭐              |
+| Matlab               | ⭐⭐⭐⭐         |
+| Ladder               | ⭐⭐⭐⭐         |
 
 
 ### Frameworks & Libraries
 | Framework/Library | Proficiency |
 |--------------------|-------------|
-| Laravel           | ⭐⭐⭐⭐⭐⭐⭐       |
-| Symfony           | ⭐⭐⭐⭐       |
-| React             | ⭐⭐⭐⭐⭐⭐        |
-| Vue               | ⭐⭐⭐⭐⭐        |
-| Angular           | ⭐⭐⭐         |
-| Svelte            | ⭐⭐⭐⭐        |
-| Bootstrap         | ⭐⭐⭐⭐⭐⭐⭐       |
-| Tailwind         | ⭐⭐⭐⭐⭐⭐       |
-| jQuery            | ⭐⭐⭐⭐⭐⭐⭐       |
-| Three.js          | ⭐⭐⭐        |
-| Nextjs          | ⭐⭐⭐        |
-| Inertia          | ⭐⭐⭐⭐⭐⭐⭐        |
+| Laravel             | ⭐⭐⭐⭐⭐⭐⭐       |
+| Symfony             | ⭐⭐⭐⭐       |
+| React               | ⭐⭐⭐⭐⭐⭐        |
+| Vue                 | ⭐⭐⭐⭐⭐        |
+| Angular             | ⭐⭐⭐         |
+| Svelte              | ⭐⭐⭐⭐        |
+| Bootstrap           | ⭐⭐⭐⭐⭐⭐⭐       |
+| Tailwind            | ⭐⭐⭐⭐⭐⭐       |
+| jQuery              | ⭐⭐⭐⭐⭐⭐⭐       |
+| Three.js            | ⭐⭐⭐        |
+| Nextjs              | ⭐⭐⭐        |
+| Inertia             | ⭐⭐⭐⭐⭐⭐⭐        |
 
 ---
 
