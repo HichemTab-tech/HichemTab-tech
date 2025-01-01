@@ -22,27 +22,33 @@ A TypeScript-first utility package designed to dynamically transform your code a
 
 ### EasyCaptchaJS
 A lightweight and user-friendly jQuery/JS library that simplifies the integration of Google reCAPTCHA API into web pages. Enhance the security and user experience of your web applications effortlessly.
-**[![EasyCaptchaJS Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=EasyCaptchaJs&theme=github_dark)](https://github.com/HichemTab-tech/EasyCaptchaJS)**<br>
+
+ **[![EasyCaptchaJS Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=EasyCaptchaJs&theme=github_dark)](https://github.com/HichemTab-tech/EasyCaptchaJS)**<br>
 
 ### RubiksCube-threejs
 A 3D Rubik's Cube simulation using Three.js, providing an interactive and visually engaging experience. Rotate and solve the cube in your browser.
-**[![RubiksCube-threejs Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=RubiksCube-threejs&theme=github_dark)](https://github.com/HichemTab-tech/RubiksCube-threejs)**<br>
+
+ **[![RubiksCube-threejs Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=RubiksCube-threejs&theme=github_dark)](https://github.com/HichemTab-tech/RubiksCube-threejs)**<br>
 
 ### LangifyLaravel
 A powerful Laravel language generation library that simplifies the process of creating language files for multilingual support. With just one source language file, it generates translations for multiple languages, making localization a breeze.
-**[![LangifyLaravel Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=LangifyLaravel&theme=github_dark)](https://github.com/HichemTab-tech/LangifyLaravel)**
+
+ **[![LangifyLaravel Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=LangifyLaravel&theme=github_dark)](https://github.com/HichemTab-tech/LangifyLaravel)**
 
 ### OTP Designer jQuery
 Create custom OTP code inputs effortlessly with this jQuery plugin. It enables designers and developers to design visually appealing, secure OTP code input fields with built-in validation events.
-**[![OTP Designer jQuery Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=OTP-designer-jquery&theme=github_dark)](https://github.com/HichemTab-tech/OTP-designer-jquery)**<br>
+
+ **[![OTP Designer jQuery Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=OTP-designer-jquery&theme=github_dark)](https://github.com/HichemTab-tech/OTP-designer-jquery)**<br>
 
 ### Chess Game
 A simple chess game built as a web page using HTML, JavaScript, jQuery, CSS, and Bootstrap. Play and enjoy chess directly in your browser.
-**[![Chess Game Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=Chess-game&theme=github_dark)](https://github.com/HichemTab-tech/Chess-game)**<br>
+
+ **[![Chess Game Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=Chess-game&theme=github_dark)](https://github.com/HichemTab-tech/Chess-game)**<br>
 
 ### PackBumpPR: Effortless Package Version Updates 🚀
 PackBumpPR is a reusable GitHub Action that simplifies package version updates and automates pull request creation. Perfect for quick updates, even when you're on the go 🌍.
-**[![PackBumpPR Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=PackBumpPR&theme=github_dark)](https://github.com/HichemTab-tech/PackBumpPR)**<br>
+
+ **[![PackBumpPR Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=PackBumpPR&theme=github_dark)](https://github.com/HichemTab-tech/PackBumpPR)**<br>
 
 ### And so much more...
 
