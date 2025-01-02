@@ -17,8 +17,7 @@ Welcome to my GitHub profile! I'm Hichem Taboukouyout, also known as HichemTech,
 ### ts-runtime-picker
 A TypeScript-first utility package designed to dynamically transform your code and provide runtime-safe "pickers" for your objects based on TypeScript interfaces or types. The package integrates seamlessly into your Vite-based or Webpack-based projects, allowing developers to enjoy type-safe runtime logic without sacrificing development speed or flexibility.
 
-  **[![ts-runtime-picker Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=ts-runtime-picker&theme=github_dark)](https://github.com/HichemTab-tech/ts-runtime-picker)**.<br>
-  
+  **[![ts-runtime-picker Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=ts-runtime-picker&theme=github_dark)](https://github.com/HichemTab-tech/ts-runtime-picker)**<br>
 
 ### EasyCaptchaJS
 A lightweight and user-friendly jQuery/JS library that simplifies the integration of Google reCAPTCHA API into web pages. Enhance the security and user experience of your web applications effortlessly.
