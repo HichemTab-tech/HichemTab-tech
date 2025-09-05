@@ -14,10 +14,15 @@ Welcome to my GitHub profile! I'm Hichem Taboukouyout, also known as HichemTech,
 
 ## 🛠️ My Projects
 
+### react-shared-states
+Global state made as simple as useState, with zero config, built-in async caching, and automatic scoping.
+
+**[![react-shared-states Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=react-shared-states&theme=github_dark)](https://github.com/HichemTab-tech/react-shared-states)**<br>
+
 ### LaravelFS
 LaravelFS was born from the idea of "Laravel Full Starter Kits" (or Full Stack) LOL – a way to bring back the legacy starter kits like Breeze and Jetstream that were removed from the official Laravel Installer, while still supporting the new Laravel 12 starter kits and custom solutions via Composer.
 
-  **[![LaravelFS Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=LaravelFS&theme=github_dark)](https://github.com/HichemTab-tech/LaravelFS)**<br>
+**[![LaravelFS Repository](https://github-readme-stats.vercel.app/api/pin/?username=HichemTab-tech&repo=LaravelFS&theme=github_dark)](https://github.com/HichemTab-tech/LaravelFS)**<br>
 
 ### ts-runtime-picker
 A TypeScript-first utility package designed to dynamically transform your code and provide runtime-safe "pickers" for your objects based on TypeScript interfaces or types. The package integrates seamlessly into your Vite-based or Webpack-based projects, allowing developers to enjoy type-safe runtime logic without sacrificing development speed or flexibility.
